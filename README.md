@@ -7,6 +7,21 @@ Quran manuscripts are everywhere. That's a good thing! But it's also bad, becaus
 
 That's where __Quran Manuscripts__ comes to the rescue. It centralizes links to Quranic manuscripts. Forget about wasting your time searching and start digging!
 
+### License
+
+This project is licensed under the [Creative Commons Attribution Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/). It's pretty permissive, allowing users to modify it to their liking and use the product(s) commercially or non-commercially. Two things to keep in mind: one, the products will also be licensed under the CC-BY-SA-4.0 license. Two: this repo must be credited. Here's a perfect attribution. As long as you mention the title, author, source, and license, you're good to go:
+  
+
+_**Title**: Quran Manuscripts Project_
+
+_**Author**: Mennaruuk_
+
+_**Source**: https://github.com/Mennaruuk/quran-manuscripts_
+
+_**License**: CC-BY-SA-4.0_
+  
+
+
 | Manuscript Title                      | Housed At                        | URL                                                          |
 | ------------------------------------- | -------------------------------- | ------------------------------------------------------------ |
 | BnF Arabe 324                         | Bibliothèque nationale de France | [BnF Arabe 324](https://gallica.bnf.fr/ark:/12148/btv1b8452552h) |
@@ -478,15 +493,3 @@ Just follow these rules:
 
   1. **Civility is the most important.** We have zero tolerance for casteism, homophobia, Islamophobia, racism, sexism, transphobia, and xenophobia. [Don't be rude.](http://www.youtube.com/watch?v=PIh2xe4jnpk&t=0m42s)
   2. There are forums and subreddits dedicated to debating Islam and the Quran. *This is not it.*
-
-### License
-
-This project is licensed under the [Creative Commons Attribution Share Alike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/). It's pretty permissive, allowing users to modify it to their liking and use the product(s) commercially or non-commercially. Two things to keep in mind: one, the products will also be licensed under the CC-BY-SA-4.0 license. Two: this repo must be credited. Here's a perfect attribution. As long as you mention the title, author, source, and license, you're good to go:
-
-_**Title**: Quran Manuscripts Project_
-
-_**Author**: Mennaruuk_
-
-_**Source**: https://github.com/Mennaruuk/quran-manuscripts_
-
-_**License**: CC-BY-SA-4.0_
